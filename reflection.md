@@ -5,8 +5,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+The game told me my final score was a negative number and it kept telling me to guess below the number 1. 
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
+It kept telling me to guess lower than 0. 
+The final score it gave me was a negative number.
 
 ---
 
@@ -19,7 +22,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ---
 
 ## 3. Debugging and testing your fixes
-
+ 
 - How did you decide whether a bug was really fixed?
 - Describe at least one test you ran (manual or using pytest)  
   and what it showed you about your code.
